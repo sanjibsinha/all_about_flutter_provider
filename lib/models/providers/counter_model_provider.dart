@@ -4,7 +4,7 @@ import 'package:flutter/widgets.dart';
 /// in our previous chapter
 class CountingTheNumber with ChangeNotifier {
   int value = 0;
-  void incrementTheValue() {
+  void increaseValue() {
     value++;
     notifyListeners();
   }
