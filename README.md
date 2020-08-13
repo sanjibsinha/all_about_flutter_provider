@@ -1,4 +1,4 @@
-# stateful_practce_one
+# On Flutter Provider, an Introduction
 
 A new Flutter project. This is another repository that I have planned to develop later for the book - Begiining Flutter with Dart. This book can be downloaded free at Leanpub platform.
 
